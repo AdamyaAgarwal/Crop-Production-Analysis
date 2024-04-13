@@ -20,4 +20,4 @@ For installing the dependencies, use:
 `pip install requirements.txt`
 Please unzip the file `merged.zip` to get `merged.csv` file before executing the script
 For executing the script and hosting the dashboard locally, use:
-`streamlit run final.py`
+`streamlit run streamlitapp.py`
